@@ -12,7 +12,7 @@
 3 • Execulte o comando abaixo e seja feliz !
 
 
-bash <(wget -qO- https://raw.githubusercontent.com/CRAZY-VPN/BACKUP-PAINEL-V20/master/restaurar.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/fabricio94b/Painel-v20/main/restaurar.sh)
 
 
 OBS: A SENHA ADMIN SERA A MESMA SENHA DO PAINEL AMTERIOR !
