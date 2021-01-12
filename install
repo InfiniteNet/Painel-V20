@@ -57,7 +57,7 @@ echo ""
 
 cd /var/www/html
 
-wget https://raw.githubusercontent.com/fabricio94b/Painel/main/v20.zip > /dev/null 2>&1
+wget https://github.com/fabricio94b/Painel-v20/raw/main/v20.zip > /dev/null 2>&1
 unzip v20.zip > /dev/null 2>&1
 rm -rf v20.zip index.html > /dev/null 2>&1
 service apache2 restart > /dev/null 2>&1
