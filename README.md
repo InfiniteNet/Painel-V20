@@ -5,9 +5,9 @@ __Recomendado__
 
 __Comando para instalar__
 
-```wget https://raw.githubusercontent.com/fabricio94b/Painel-v20/main/install; chmod +x install; ./install```
+```wget https://raw.githubusercontent.com/InfiniteNet/Painel-V20/main/install; chmod +x install; ./install```
 #
 #
 #
 
-![logo](https://github.com/fabricio94b/Painel-v20/blob/main/home.png)
+![logo](https://github.com/InfiniteNet/Painel-V20/blob/main/home.png)
